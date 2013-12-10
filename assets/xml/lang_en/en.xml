@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang locale="en" name="English" variant="English">
+	<bundle id="footer">
+		<copy id="about" ><![CDATA[About]]></copy>
+		<copy id="contact" ><![CDATA[Contact]]></copy>
+		<copy id="terms" ><![CDATA[Terms]]></copy>
+		<copy id="privacy" ><![CDATA[Privacy]]></copy>
+		<copy id="logout" ><![CDATA[Logout]]></copy>
+		<copy id="copyright" ><![CDATA[© 2013 Phune Gaming]]></copy>
+		<copy id="follow" ><![CDATA[Follow us on]]></copy>
+		<copy id="facebook" ><![CDATA[Facebook]]></copy>
+		<copy id="twitter" ><![CDATA[Twitter]]></copy>
+	</bundle>
+	<bundle id="header">
+		<copy id="OPTION_TODAY" ><![CDATA[today]]></copy>
+		<copy id="OPTION_GAMES" ><![CDATA[games]]></copy>
+		<copy id="OPTION_GAME" ><![CDATA[]]></copy>
+		<copy id="OPTION_FRIENDS" ><![CDATA[friends]]></copy>
+		<copy id="OPTION_PROFILE" ><![CDATA[profile]]></copy>
+		<copy id="OPTION_RANKING" ><![CDATA[ranking]]></copy>
+		<copy id="OPTION_ADD_FRIEND" ><![CDATA[add friends]]></copy>
+		<copy id="OPTION_INVITE_FRIEND" ><![CDATA[invite friends]]></copy>
+		<copy id="OPTION_EDIT_PROFILE" ><![CDATA[edit]]></copy>
+		<copy id="OPTION_GLOBAL_RANKING" ><![CDATA[ranking]]></copy>
+		<copy id="OPTION_INBOX" ><![CDATA[inbox]]></copy>
+		<copy id="OPTION_INBOX_BODY" ><![CDATA[inbox]]></copy>
+	</bundle>
+	<bundle id="action">
+		<copy id="ACTION_BUTTON_PLAY" ><![CDATA[PLAY]]></copy>
+		<copy id="ACTION_BUTTON_ADD_FRIEND" ><![CDATA[Add]]></copy>
+		<copy id="ACTION_BUTTON_ADD_ALL_FRIENDS" ><![CDATA[Add all]]></copy>
+		<copy id="ACTION_BUTTON_INVITE_ALL_FRIENDS" ><![CDATA[Invite all]]></copy>
+		<copy id="ACTION_BUTTON_CANCEL" ><![CDATA[cancel]]></copy>
+		<copy id="ACTION_BUTTON_EDIT" ><![CDATA[Edit]]></copy>
+		<copy id="ACTION_BUTTON_DONE" ><![CDATA[Done]]></copy>
+	</bundle>
+	<bundle id="error">
+		<copy id="title" ><![CDATA[Ops an error!]]></copy>
+		<copy id="detail_type" ><![CDATA[Type]]></copy>
+		<copy id="detail_original_type" ><![CDATA[Original type]]></copy>
+		<copy id="detail_target" ><![CDATA[Target]]></copy>
+		<copy id="detail_error" ><![CDATA[Description]]></copy>
+		<copy id="detail_error_id" ><![CDATA[Id]]></copy>
+	</bundle>
+	<bundle id="login">
+		<copy id="login_unlock" ><![CDATA[UNLOCK YOUR STREAM]]></copy>
+		<copy id="login_friends_unlock" ><![CDATA[BRING THEN OVER]]></copy>
+		<copy id="phune_engage_login" ><![CDATA[Phune]]></copy>
+		<copy id="intro_engage_login" ><![CDATA[]]></copy>
+		<copy id="unlock_stream_engage_login" ><![CDATA[Share your achievements and track the progress of your gaming friends.]]></copy>
+		<copy id="unlock_friends_engage_login" ><![CDATA[is a lot cooler when playing with fellow gamers.]]></copy>
+		<copy id="login_action" ><![CDATA[Login with]]></copy>
+		<copy id="login_conclusion" ><![CDATA[All your history from games and achievements will be saved.]]></copy>
+	</bundle>
+	<bundle id="util">
+		<copy id="just_now" ><![CDATA[just now]]></copy>
+		<copy id="minutes_ago" ><![CDATA[minutes ago]]></copy>
+		<copy id="hours_ago" ><![CDATA[hours ago]]></copy>
+		<copy id="days_ago" ><![CDATA[days ago]]></copy>
+	</bundle>
+	<bundle id="stream">
+		<copy id="won_match" ><![CDATA[won a match of]]></copy>
+		<copy id="lost_match" ><![CDATA[lost a match of]]></copy>
+		<copy id="won_the" ><![CDATA[Won the]]></copy>
+		<copy id="badge" ><![CDATA[badge]]></copy>
+		<copy id="in" ><![CDATA[in]]></copy>
+	</bundle>
+	<bundle id="ranking">
+		<copy id="this_week" ><![CDATA[This week]]></copy>
+		<copy id="this_month" ><![CDATA[This month]]></copy>
+		<copy id="global" ><![CDATA[All time]]></copy>
+		<copy id="ranking_pts"><![CDATA[pts]]></copy>
+		<copy id="loading_more"><![CDATA[Loading VALUE more...]]></copy>
+		<copy id="unranked"><![CDATA[unranked]]></copy>
+	</bundle>
+	<bundle id="notification">
+		<copy id="phune" ><![CDATA[phune]]></copy>
+		<copy id="is_loading" ><![CDATA[is loading]]></copy>
+		<copy id="please_wait" ><![CDATA[please wait]]></copy>
+		<copy id="welcome_back" ><![CDATA[Welcome back]]></copy>
+		<copy id="your_rank" ><![CDATA[your rank]]></copy>
+		<copy id="you_are_unranked" ><![CDATA[you are unranked]]></copy>
+		<copy id="coma_with" ><![CDATA[, with]]></copy>
+		<copy id="coins" ><![CDATA[coins]]></copy>
+		<copy id="the" ><![CDATA[the]]></copy>
+		<copy id="redirecting" ><![CDATA[redirecting]]></copy>
+		<copy id="has_request_your_atencion"><![CDATA[has request your atencion]]></copy>
+		<copy id="please_complete_the_sign_in_process"><![CDATA[please complete the sign in process]]></copy>
+		<copy id="finding_players"><![CDATA[finding players]]></copy>
+		<copy id="is_about_to_start"><![CDATA[is about to start]]></copy>
+		<copy id="no_players_bot"><![CDATA[No other players found. Play with bot?]]></copy>
+		<copy id="chat_said"><![CDATA[said]]></copy>
+	</bundle>
+	<bundle id="message">
+		<copy id="invite_title" ><![CDATA[New friend request]]></copy>
+	</bundle>
+	<bundle id="endmatch">
+		<copy id="leave_game" ><![CDATA[Leave Game]]></copy>
+		<copy id="new_match" ><![CDATA[New Match]]></copy>
+		<copy id="get_coins" ><![CDATA[Get Coins]]></copy>
+		<copy id="add_friend" ><![CDATA[Add friend]]></copy>
+		<copy id="share_outcome" ><![CDATA[Share outcome]]></copy>
+		<copy id="add_to_my_home_screen" ><![CDATA[Add to my home screen]]></copy>
+		<copy id="no_coins_left" ><![CDATA[No coins left to play!]]></copy>
+		<copy id="close" ><![CDATA[Close]]></copy>
+		<copy id="match_error_timeout" ><![CDATA[Can´t contact the server!]]></copy>
+	</bundle>
+	<bundle id="matchmaking">
+		<copy id="close" ><![CDATA[Close]]></copy>
+		<copy id="play_with_bot" ><![CDATA[Play with bot]]></copy>
+		<copy id="try_again" ><![CDATA[Try again]]></copy>
+	</bundle>
+	<bundle id="search_friends">
+		<copy id="search_text_box" ><![CDATA[Search]]></copy>
+		<copy id="search_others_text_box" ><![CDATA[Search others on Phune]]></copy>
+		<copy id="refine_your_search_text_box" ><![CDATA[Refine your search]]></copy>
+		<copy id="search_btn_label" ><![CDATA[Search]]></copy>
+		<copy id="ADD_FRIEND" ><![CDATA[add]]></copy>
+		<copy id="INVITE_FRIEND" ><![CDATA[invite]]></copy>
+	</bundle>
+	<bundle id="game_header">
+		<copy id="me" ><![CDATA[Me]]></copy>
+		<copy id="winner" ><![CDATA[Winner]]></copy>
+		<copy id="ready" ><![CDATA[READY]]></copy>
+		<copy id="waiting" ><![CDATA[WAITING]]></copy>
+	</bundle>
+	<bundle id="presence_messages">
+		<copy id="default"><![CDATA[Phune is fun!]]></copy>
+		<copy id="sleeping_zzzz" ><![CDATA[sleeping zzz...]]></copy>
+		<copy id="waiting_for_players_in" ><![CDATA[waiting for players in]]></copy>
+		<copy id="playing" ><![CDATA[playing]]></copy>
+		<copy id="with" ><![CDATA[with]]></copy>
+	</bundle>
+	<bundle id="add_friend">
+		<copy id="invite_sent" ><![CDATA[invite sent]]></copy>
+		<copy id="cancel_invite" ><![CDATA[Cancel invite]]></copy>
+		<copy id="add_friend_btn" ><![CDATA[Add]]></copy>
+		<copy id="facebook_search_result_multi"><![CDATA[friends on Facebook]]></copy>
+		<copy id="facebook_search_result_single"><![CDATA[friend on Facebook]]></copy>
+		<copy id="all_users_search_result"><![CDATA[Found VAL1 people on Phune for]]></copy>
+		<copy id="add_all_btn"><![CDATA[Add all]]></copy>
+	</bundle>
+	<bundle id="edit_profile">
+		<copy id="full_name_label" ><![CDATA[FULL NAME]]></copy>
+		<copy id="username_label" ><![CDATA[USERNAME]]></copy>
+		<copy id="change_avatar_label" ><![CDATA[CHANGE AVATAR]]></copy>
+		<copy id="birth_date_label" ><![CDATA[BIRTH DATE]]></copy>
+		<copy id="birth_date_title" ><![CDATA[Birth Date]]></copy>
+		<copy id="birth_date_message" ><![CDATA[Select your birth date]]></copy>
+		<copy id="birth_date_OK" ><![CDATA[OK]]></copy>
+		<copy id="birth_date_NA" ><![CDATA[NA]]></copy>
+		<copy id="gender_label" ><![CDATA[GENDER]]></copy>
+		<copy id="gender_title" ><![CDATA[Gender]]></copy>
+		<copy id="gender_message" ><![CDATA[Select your gender]]></copy>
+		<copy id="gender_male" ><![CDATA[Male]]></copy>
+		<copy id="gender_female" ><![CDATA[Female]]></copy>
+		<copy id="birth_gender_cancel" ><![CDATA[cancel]]></copy>
+		<copy id="social_separator_label" ><![CDATA[Social Networks]]></copy>
+		<copy id="SOCIAL_FACEBOOK" ><![CDATA[Facebook]]></copy>
+		<copy id="SOCIAL_TWITTER" ><![CDATA[Twitter]]></copy>
+	</bundle>
+	<bundle id="months">
+		<copy id="month_0" ><![CDATA[Jan]]></copy>
+		<copy id="month_1" ><![CDATA[Feb]]></copy>
+		<copy id="month_2" ><![CDATA[Mar]]></copy>
+		<copy id="month_3" ><![CDATA[Apr]]></copy>
+		<copy id="month_4" ><![CDATA[May]]></copy>
+		<copy id="month_5" ><![CDATA[Jun]]></copy>
+		<copy id="month_6" ><![CDATA[Jul]]></copy>
+		<copy id="month_7" ><![CDATA[Aug]]></copy>
+		<copy id="month_8" ><![CDATA[Sep]]></copy>
+		<copy id="month_9" ><![CDATA[Oct]]></copy>
+		<copy id="month_10" ><![CDATA[Nov]]></copy>
+		<copy id="month_11" ><![CDATA[Dec]]></copy>
+	</bundle>
+	<bundle id="profile">
+		<copy id="your_custon_message" ><![CDATA[Your custom message]]></copy>
+		<copy id="available" ><![CDATA[Available]]></copy>
+		<copy id="away" ><![CDATA[Away]]></copy>
+		<copy id="busy" ><![CDATA[Busy]]></copy>
+		<copy id="invisible" ><![CDATA[Invisible]]></copy>
+		<copy id="tab_phune_rank"><![CDATA[PHUNE RANK]]></copy>
+		<copy id="tab_achievements"><![CDATA[ACHIEVEMENTS]]></copy>
+		<copy id="tab_coins"><![CDATA[COINS]]></copy>
+	</bundle>
+	<bundle id="inbox_message_actions">
+		<copy id="add_friend"><![CDATA[Accept friend]]></copy>
+		<copy id="view_profile"><![CDATA[View profile]]></copy>
+		<copy id="refuse_request"><![CDATA[Ignore request]]></copy>
+		<copy id="delete_message"><![CDATA[Delete message]]></copy>
+	</bundle>
+	<bundle id="chat_window">
+		<copy id="send_button"><![CDATA[Send]]></copy>
+		<copy id="is_typing"><![CDATA[is typing...]]></copy>
+	</bundle>
+	<bundle id="inbox_body">
+		<copy id="no_messages"><![CDATA[No messages]]></copy>
+		<copy id="achievement_earned"><![CDATA[Earned]]></copy>
+	</bundle>
+	<bundle id="presence_show">
+		<copy id="online"><![CDATA[online]]></copy>
+		<copy id="chat"><![CDATA[chat]]></copy>
+		<copy id="away"><![CDATA[away]]></copy>
+		<copy id="xa"><![CDATA[away]]></copy>
+		<copy id="dnd"><![CDATA[busy]]></copy>
+	</bundle>
+	<bundle id="in_game_popup">
+		<copy id="chat"><![CDATA[Chat]]></copy>
+		<copy id="leave_match"><![CDATA[Leave match]]></copy>
+		<copy id="hide_pophup"><![CDATA[Hide options]]></copy>
+		<copy id="menu"><![CDATA[Menu]]></copy>
+		<copy id="select_option"><![CDATA[select your option]]></copy>
+	</bundle>
+	<bundle id="get_coins_popup">
+		<copy id="header_text"><![CDATA[Pick a coins pack to keep playing!]]></copy>
+		<copy id="notification_bar_description"><![CDATA[Not enough coins to play this game.]]></copy>
+	</bundle>
+	<bundle id="notification_error_message">
+		<copy id="default_title_successful"><![CDATA[Successful]]></copy>
+		<copy id="default_title_failed"><![CDATA[Please correct the fields below:]]></copy>
+		<copy id="default_title_warning"><![CDATA[Could not connect with phune]]></copy>
+		<copy id="default_description_warning"><![CDATA[Please try again in few moments]]></copy>
+		<copy id="search_box_empty"><![CDATA[Please insert the name you want to search:]]></copy>
+	</bundle>
+</lang>

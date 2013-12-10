@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<directory scale="1" path="assets/atlas/small/"/>
+	<directory scale="1.5" path="assets/atlas/medium/"/>
+	<directory scale="2" path="assets/atlas/large/"/>
+	<directory scale="2.5" path="assets/atlas/xlarge/"/>
+ 
+	<image name="atlas" src="atlas.png" xml="atlas.xml" type="atlas" />
+</data>

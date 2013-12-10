@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fc0a79be045d1ac25750cbead644e4e6:3c75f17c58ad28a4d737e490bc4dd3e9:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="arrowBack0" x="56" y="2" width="20" height="50"/>
+    <SubTexture name="arrowBack1" x="78" y="2" width="20" height="50"/>
+    <SubTexture name="arrowDropdown" x="228" y="2" width="30" height="20"/>
+    <SubTexture name="arrowNext" x="14" y="2" width="18" height="30"/>
+    <SubTexture name="avatars/icoAvatar0" x="848" y="54" width="100" height="100"/>
+    <SubTexture name="avatars/icoAvatar1" x="644" y="54" width="100" height="100"/>
+    <SubTexture name="avatars/icoAvatar2" x="746" y="54" width="100" height="100"/>
+    <SubTexture name="avatars/icoAvatar3" x="950" y="54" width="100" height="100"/>
+    <SubTexture name="bgTile" x="292" y="2" width="30" height="40"/>
+    <SubTexture name="horizontal-scroll-bar-thumb-skin" x="260" y="2" width="30" height="10"/>
+    <SubTexture name="icoActionsUserBlock0" x="564" y="2" width="50" height="50"/>
+    <SubTexture name="icoActionsUserRemove0" x="1760" y="2" width="50" height="50"/>
+    <SubTexture name="icoActionsUserSendMsg0" x="54" y="54" width="50" height="50"/>
+    <SubTexture name="icoAreaFriends0" x="2" y="54" width="50" height="50"/>
+    <SubTexture name="icoAreaFriends1" x="1708" y="2" width="50" height="50"/>
+    <SubTexture name="icoAreaGames0" x="1656" y="2" width="50" height="50"/>
+    <SubTexture name="icoAreaGames1" x="1500" y="2" width="50" height="50"/>
+    <SubTexture name="icoAreaProfile0" x="1604" y="2" width="50" height="50"/>
+    <SubTexture name="icoAreaProfile1" x="106" y="54" width="50" height="50"/>
+    <SubTexture name="icoAreaToday0" x="1552" y="2" width="50" height="50"/>
+    <SubTexture name="icoAreaToday1" x="1448" y="2" width="50" height="50"/>
+    <SubTexture name="icoAvatarPlaceholder" x="542" y="54" width="100" height="100"/>
+    <SubTexture name="icoCheckbox0" x="314" y="54" width="50" height="50"/>
+    <SubTexture name="icoCheckbox1" x="366" y="54" width="50" height="50"/>
+    <SubTexture name="icoClearTextfield" x="418" y="54" width="50" height="50"/>
+    <SubTexture name="icoClosePopup0" x="1165" y="54" width="111" height="110"/>
+    <SubTexture name="icoClosePopup1" x="1052" y="54" width="111" height="110"/>
+    <SubTexture name="icoFooterFacebook" x="366" y="2" width="40" height="43"/>
+    <SubTexture name="icoFooterTwitter" x="324" y="2" width="40" height="43"/>
+    <SubTexture name="icoGameCounterAchievements" x="158" y="54" width="50" height="50"/>
+    <SubTexture name="icoGameCounterCredits" x="210" y="54" width="50" height="50"/>
+    <SubTexture name="icoInboxEmpty" x="1278" y="54" width="160" height="115"/>
+    <SubTexture name="icoLocation" x="34" y="2" width="20" height="28"/>
+    <SubTexture name="icoMatchOutcome" x="262" y="54" width="50" height="50"/>
+    <SubTexture name="icoMsgAchievementRead" x="158" y="54" width="50" height="50"/>
+    <SubTexture name="icoMsgAchievementUnread" x="876" y="2" width="50" height="50"/>
+    <SubTexture name="icoMsgChatRead" x="1396" y="2" width="50" height="50"/>
+    <SubTexture name="icoMsgChatUnread" x="668" y="2" width="50" height="50"/>
+    <SubTexture name="icoMsgRead" x="512" y="2" width="50" height="50"/>
+    <SubTexture name="icoMsgUnread" x="720" y="2" width="50" height="50"/>
+    <SubTexture name="icoNext" x="196" y="2" width="30" height="20"/>
+    <SubTexture name="icoNextInactive" x="100" y="2" width="30" height="20"/>
+    <SubTexture name="icoNotificationAchievementUnread" x="460" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationBarClose0" x="408" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationBarClose1" x="616" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationChatRead" x="772" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationChatUnread" x="1136" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationError" x="1240" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationInbox" x="1344" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationMsgUnread" x="1292" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationOK" x="1188" y="2" width="50" height="50"/>
+    <SubTexture name="icoNotificationWarn" x="1084" y="2" width="50" height="50"/>
+    <SubTexture name="icoPrev" x="132" y="2" width="30" height="20"/>
+    <SubTexture name="icoPrevInactive" x="164" y="2" width="30" height="20"/>
+    <SubTexture name="icoSearch" x="824" y="2" width="50" height="50"/>
+    <SubTexture name="icoSocialFacebook" x="928" y="2" width="50" height="50"/>
+    <SubTexture name="icoSocialGoogle" x="1032" y="2" width="50" height="50"/>
+    <SubTexture name="icoSocialTwitter" x="980" y="2" width="50" height="50"/>
+    <SubTexture name="logoPhune" x="1440" y="54" width="178" height="58"/>
+    <SubTexture name="ornament" x="1620" y="54" width="185" height="18"/>
+    <SubTexture name="phune_logo" x="470" y="54" width="70" height="70"/>
+    <SubTexture name="vertical-scroll-bar-thumb-skin" x="2" y="2" width="10" height="30"/>
+</TextureAtlas>
