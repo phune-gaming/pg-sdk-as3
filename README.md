@@ -1,27 +1,31 @@
 # Phune Gaming SDK for ActionScript 3
 
-## Enviroment setup
+## Environment setup
 
 ### IDE
 
-Download and install [FlashDevelop IDE](http://www.flashdevelop.org/) (Open source)
+Download and install [FlashDevelop IDE](http://www.flashdevelop.org/).
 
-### Configure enviroment (for project base-game-wrapper)
+### Configure the environment
 
-Open FlashDevelop project file base-game-wrapper.as3proj
+Open the FlashDevelop project file `base-game-wrapper.as3proj`.
 
-Open file bat/SetupSDK.bat and edit:
-* the FLEX_SDK (the flex SDK is included in the FlashDevelop)
-* the ANDROID_SDK (if want to build to Android)
+Open file `bat/SetupSDK.bat` and edit:
+* the `FLEX_SDK` (the Flex SDK is included in the FlashDevelop)
+* the `ANDROID_SDK` (if want to build for Android)
 
-In command line run bat/CreateCertificate.bat to create a self-signed certificate used in Android
+In the command line run `bat/CreateCertificate.bat` to create a self-signed certificate to be used for Android.
 
-## Where to start
+## Getting started
 
-It should open the class [GameRootImpl](https://github.com/phune-gaming/pg-sdk-as3/blob/master/src/com/presenttechnologies/phunegaming/client/gamesample/GameRootImpl.as) and override the functions as defined in [GameRoot documentation] (http://fjorge.github.io/pg-sdk-as3/apidocs/com/presenttechnologies/phunegaming/client/platform/view/game/GameRoot.html)
+Open the class [`GameRootImpl`](https://github.com/phune-gaming/pg-sdk-as3/blob/master/src/com/presenttechnologies/phunegaming/client/gamesample/GameRootImpl.as) and override the functions as defined in the [GameRoot API documentation] (http://fjorge.github.io/pg-sdk-as3/apidocs/com/presenttechnologies/phunegaming/client/platform/view/game/GameRoot.html).
 
 ## AS3 docs
 
-You can browse the [asDocs](http://fjorge.github.com/pg-sdk-as3/apidocs/index.html) for more information, including example usages.
+For more information, including example usages, please browse the [asDocs](http://fjorge.github.com/pg-sdk-as3/apidocs/index.html).
 
+## License
 
+Copyright (c) 2014 Present Technologies
+
+Licensed under the MIT license.
