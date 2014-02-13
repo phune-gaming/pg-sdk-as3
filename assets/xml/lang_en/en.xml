@@ -90,6 +90,10 @@
 		<copy id="is_about_to_start"><![CDATA[is about to start]]></copy>
 		<copy id="no_players_bot"><![CDATA[No other players found. Play with bot?]]></copy>
 		<copy id="chat_said"><![CDATA[said]]></copy>
+		<copy id="new_version"><![CDATA[New version]]></copy>
+		<copy id="get_version_continue"><![CDATA[Get the new version in order to continue]]></copy>
+		<copy id="get"><![CDATA[Get]]></copy>
+		<copy id="for_the_price_of"><![CDATA[for the price of]]></copy>
 	</bundle>
 	<bundle id="message">
 		<copy id="invite_title" ><![CDATA[New friend request]]></copy>
