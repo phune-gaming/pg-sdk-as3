@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
-<!-- $TexturePacker:SmartUpdate:fc0a79be045d1ac25750cbead644e4e6:3c75f17c58ad28a4d737e490bc4dd3e9:cde709370900f12288f3449eded86f07$ -->
+<!-- $TexturePacker:SmartUpdate:dabde305dcfd3aa310363494ae5dc524:7f563e16dc29b9b34f3312a4296cdf37:cde709370900f12288f3449eded86f07$ -->
 <TextureAtlas imagePath="atlas.png">
     <SubTexture name="arrowBack0" x="56" y="2" width="20" height="50"/>
     <SubTexture name="arrowBack1" x="78" y="2" width="20" height="50"/>
@@ -60,8 +60,8 @@
     <SubTexture name="icoSocialFacebook" x="928" y="2" width="50" height="50"/>
     <SubTexture name="icoSocialGoogle" x="1032" y="2" width="50" height="50"/>
     <SubTexture name="icoSocialTwitter" x="980" y="2" width="50" height="50"/>
-    <SubTexture name="logoPhune" x="1440" y="54" width="178" height="58"/>
-    <SubTexture name="ornament" x="1620" y="54" width="185" height="18"/>
+    <SubTexture name="logoPhune" x="1627" y="54" width="188" height="58"/>
+    <SubTexture name="ornament" x="1440" y="54" width="185" height="18"/>
     <SubTexture name="phune_logo" x="470" y="54" width="70" height="70"/>
     <SubTexture name="vertical-scroll-bar-thumb-skin" x="2" y="2" width="10" height="30"/>
 </TextureAtlas>

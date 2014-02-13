@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
-<!-- $TexturePacker:SmartUpdate:4a2481946320ff09d2444e2ce99b5333:3c75f17c58ad28a4d737e490bc4dd3e9:cde709370900f12288f3449eded86f07$ -->
+<!-- $TexturePacker:SmartUpdate:c4f78d65c26633bf8a40be9a1613edc7:7f563e16dc29b9b34f3312a4296cdf37:cde709370900f12288f3449eded86f07$ -->
 <TextureAtlas imagePath="atlas.png">
     <SubTexture name="arrowBack0" x="818" y="44" width="16" height="40"/>
     <SubTexture name="arrowBack1" x="590" y="44" width="16" height="40"/>
     <SubTexture name="arrowDropdown" x="282" y="2" width="24" height="16"/>
     <SubTexture name="arrowNext" x="336" y="2" width="14" height="24"/>
-    <SubTexture name="avatars/icoAvatar0" x="246" y="86" width="80" height="80"/>
-    <SubTexture name="avatars/icoAvatar1" x="328" y="86" width="80" height="80"/>
-    <SubTexture name="avatars/icoAvatar2" x="574" y="86" width="80" height="80"/>
-    <SubTexture name="avatars/icoAvatar3" x="410" y="86" width="80" height="80"/>
+    <SubTexture name="avatars/icoAvatar0" x="254" y="86" width="80" height="80"/>
+    <SubTexture name="avatars/icoAvatar1" x="336" y="86" width="80" height="80"/>
+    <SubTexture name="avatars/icoAvatar2" x="582" y="86" width="80" height="80"/>
+    <SubTexture name="avatars/icoAvatar3" x="418" y="86" width="80" height="80"/>
     <SubTexture name="bgTile" x="352" y="2" width="24" height="32"/>
     <SubTexture name="horizontal-scroll-bar-thumb-skin" x="2" y="2" width="24" height="8"/>
     <SubTexture name="icoActionsUserBlock0" x="650" y="44" width="40" height="40"/>
@@ -23,17 +23,17 @@
     <SubTexture name="icoAreaProfile1" x="338" y="44" width="40" height="40"/>
     <SubTexture name="icoAreaToday0" x="836" y="44" width="40" height="40"/>
     <SubTexture name="icoAreaToday1" x="920" y="44" width="40" height="40"/>
-    <SubTexture name="icoAvatarPlaceholder" x="492" y="86" width="80" height="80"/>
+    <SubTexture name="icoAvatarPlaceholder" x="500" y="86" width="80" height="80"/>
     <SubTexture name="icoCheckbox0" x="2" y="86" width="40" height="40"/>
     <SubTexture name="icoCheckbox1" x="734" y="44" width="40" height="40"/>
     <SubTexture name="icoClearTextfield" x="776" y="44" width="40" height="40"/>
-    <SubTexture name="icoClosePopup0" x="656" y="86" width="89" height="88"/>
-    <SubTexture name="icoClosePopup1" x="747" y="86" width="89" height="88"/>
+    <SubTexture name="icoClosePopup0" x="664" y="86" width="89" height="88"/>
+    <SubTexture name="icoClosePopup1" x="755" y="86" width="89" height="88"/>
     <SubTexture name="icoFooterFacebook" x="412" y="2" width="32" height="34"/>
     <SubTexture name="icoFooterTwitter" x="378" y="2" width="32" height="34"/>
     <SubTexture name="icoGameCounterAchievements" x="878" y="44" width="40" height="40"/>
     <SubTexture name="icoGameCounterCredits" x="296" y="44" width="40" height="40"/>
-    <SubTexture name="icoInboxEmpty" x="838" y="86" width="128" height="92"/>
+    <SubTexture name="icoInboxEmpty" x="846" y="86" width="128" height="92"/>
     <SubTexture name="icoLocation" x="308" y="2" width="16" height="22"/>
     <SubTexture name="icoMatchOutcome" x="656" y="2" width="40" height="40"/>
     <SubTexture name="icoMsgAchievementRead" x="878" y="44" width="40" height="40"/>
@@ -60,8 +60,8 @@
     <SubTexture name="icoSocialFacebook" x="950" y="2" width="40" height="40"/>
     <SubTexture name="icoSocialGoogle" x="2" y="44" width="40" height="40"/>
     <SubTexture name="icoSocialTwitter" x="488" y="2" width="40" height="40"/>
-    <SubTexture name="logoPhune" x="44" y="86" width="142" height="46"/>
+    <SubTexture name="logoPhune" x="44" y="86" width="150" height="46"/>
     <SubTexture name="ornament" x="28" y="2" width="148" height="14"/>
-    <SubTexture name="phune_logo" x="188" y="86" width="56" height="56"/>
+    <SubTexture name="phune_logo" x="196" y="86" width="56" height="56"/>
     <SubTexture name="vertical-scroll-bar-thumb-skin" x="326" y="2" width="8" height="24"/>
 </TextureAtlas>
